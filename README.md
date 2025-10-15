@@ -4,9 +4,7 @@ Quickly check how web sites react to Occitan (`oci`) and Kabyle (`kab`) language
 
 ## Install & run
 
-```bash
-# 1. clone or download the repo
-```
+### 1. clone or download the repo
 
 ```bash
 git clone https://github.com/BoFFire/kabka.git
